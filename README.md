@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0088-merge-sorted-array) |
+| [0136-single-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
