@@ -46,4 +46,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0217-contains-duplicate) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
