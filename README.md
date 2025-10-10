@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
+| [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0050-powx-n) |
+| [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,4 +90,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
