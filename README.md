@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
