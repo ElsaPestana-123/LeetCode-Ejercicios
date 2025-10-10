@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0792-binary-search) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Hash Table
 |  |
@@ -73,5 +74,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0035-search-insert-position) |
+| [0792-binary-search](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0792-binary-search) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2392-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
