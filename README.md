@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
