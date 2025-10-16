@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
+| [0204-count-primes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0342-power-of-four) |
@@ -117,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0169-majority-element) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
