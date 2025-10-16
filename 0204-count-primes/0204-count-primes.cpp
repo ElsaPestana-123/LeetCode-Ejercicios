@@ -6,17 +6,22 @@ public:
         if(n > 0) nums[0] = false;
         if(n > 1) nums[1] = false;
         int count = 0;
+        int raizN = sqrt(n);
 
-        for(long long i = 2; i < n; i++){
+        for(long long i = 2; i <= raizN; i++){
             if(nums[i] == true){
                 for(long long j = i * i; j < n; j += i){
                     nums[j] = false;
                      
                 }
-                count++;
             }
 
         }
+
+        for(int i = 2; i < n; i++) {
+            if(nums[i]) count++;
+        }
+
         return count;
     }
 };
