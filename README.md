@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0792-binary-search](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0792-binary-search) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
