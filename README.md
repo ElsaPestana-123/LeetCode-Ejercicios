@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4107-find-missing-elements) |
 ## Hash Table
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0350-intersection-of-two-arrays-ii) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4107-find-missing-elements) |
 ## Math
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0169-majority-element) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
