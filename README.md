@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0350-intersection-of-two-arrays-ii) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4080-smallest-missing-multiple-of-k) |
+| [4107-find-missing-elements](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4107-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [4107-find-missing-elements](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4107-find-missing-elements) |
 ## Linked List
 |  |
 | ------- |
