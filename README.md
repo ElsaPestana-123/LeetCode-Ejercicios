@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0792-binary-search) |
 | [1470-shuffle-the-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1470-shuffle-the-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4080-smallest-missing-multiple-of-k) |
 | [4107-find-missing-elements](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/4107-find-missing-elements) |
