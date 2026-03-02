@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0136-single-number) |
+| [0222-count-complete-tree-nodes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0342-power-of-four) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0069-sqrtx) |
+| [0222-count-complete-tree-nodes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -209,4 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
