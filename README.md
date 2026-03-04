@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0700-search-in-a-binary-search-tree) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0700-search-in-a-binary-search-tree) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -265,4 +268,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
