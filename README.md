@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0965-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0700-search-in-a-binary-search-tree) |
+| [0965-univalued-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0965-univalued-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0572-subtree-of-another-tree) |
+| [0965-univalued-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0965-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
+| [0965-univalued-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0965-univalued-binary-tree) |
 ## Stack
 |  |
 | ------- |
