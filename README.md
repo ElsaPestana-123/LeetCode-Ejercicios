@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0219-contains-duplicate-ii) |
+| [0264-ugly-number-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0231-power-of-two) |
+| [0264-ugly-number-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0264-ugly-number-ii) |
 | [0268-missing-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0342-power-of-four) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0264-ugly-number-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0392-is-subsequence) |
@@ -321,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0322-coin-change) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0264-ugly-number-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0264-ugly-number-ii) |
 <!---LeetCode Topics End-->
