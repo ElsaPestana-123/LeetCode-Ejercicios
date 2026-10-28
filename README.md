@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0485-max-consecutive-ones) |
+| [0746-min-cost-climbing-stairs](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0792-binary-search) |
 | [1470-shuffle-the-array](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1470-shuffle-the-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
