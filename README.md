@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0169-majority-element) |
+| [0200-number-of-islands](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0219-contains-duplicate-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0200-number-of-islands) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Dynamic Programming
 |  |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0572-subtree-of-another-tree) |
 | [0684-redundant-connection](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0684-redundant-connection) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0684-redundant-connection) |
@@ -339,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/ElsaPestana-123/LeetCode-Ejercicios/tree/master/0684-redundant-connection) |
 ## Graph Theory
 |  |
